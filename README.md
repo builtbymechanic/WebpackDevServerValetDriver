@@ -10,8 +10,8 @@ This is a custom driver to automatically run the server specified by `serve` in 
 
 ## Installation
 
-1. Copy the `*.php` files into your `~/.config/valet/Drivers` directory.
-2. Done :)
+* Copy the `LocalValetDriver.php`) into your project by running `curl "https://raw.githubusercontent.com/builtbymechanic/WebpackDevServerValetDriver/master/LocalValetDriver.php" > LocalValetDriver.php` 
+* Add generated files to your existing project .gitignore with `curl "https://raw.githubusercontent.com/builtbymechanic/WebpackDevServerValetDriver/master/.gitignore" >> .gitignore`
 
 ## FAQ
 
